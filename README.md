@@ -40,7 +40,9 @@ The output can be displayed in the console or saved in an HTML file.
    The HTML file will be saved in the "out" folder within the ASCIIArt directory.
 9. Run the Algorithm:
    Use the command asciiArt to execute the algorithm with the current parameters.
-10.Example:
+10. The program will continue running and retain its parameters until the user 
+    inputs "exit" in the user interface.
+11. Example:
    I ran the algorithm on 'cat.jpeg', added all ASCII characters, and specified "output html".
    The "out_256.html" file is the result with a resolution of 256.
    The "out_512.html" file is the result with a resolution of 512.
