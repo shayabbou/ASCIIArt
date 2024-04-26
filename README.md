@@ -40,7 +40,7 @@ The output can be displayed in the console or saved in an HTML file.
    The HTML file will be saved in the "out" folder within the ASCIIArt directory.
 9. Run the Algorithm:
    Use the command asciiArt to execute the algorithm with the current parameters.
-10. The program will continue running and retain its parameters until the user 
+10. The program will continue running and retain its parameters until the user
     inputs "exit" in the user interface.
 11. Example:
    I ran the algorithm on 'cat.jpeg', added all ASCII characters, and specified "output html".
@@ -51,6 +51,6 @@ The output can be displayed in the console or saved in an HTML file.
 
 1. Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page. This action will create a copy of the repository in your GitHub account.
 2. Clone this repository to your local machine using 'git clone https://github.com/shayabbou/ASCIIArt.git'
-3. Navigate to the repository directory by running cd ASCIIArt.
+3. Navigate to the repository directory, open ASCIIArt directory.
 4. Open \ASCIIArt\src\ascii_art\Shell file and run it.
 5. Use the user interface in order to run the program with the parameters you need.
