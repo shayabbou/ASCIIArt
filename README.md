@@ -48,7 +48,7 @@ The output can be displayed in the console or saved in an HTML file.
 ## Installation
 
 1. Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page. This action will create a copy of the repository in your GitHub account.
-2. Clone this repository to your local machine using git clone 'https://github.com/shayabbou/ASCIIArt.git'
+2. Clone this repository to your local machine using 'git clone https://github.com/shayabbou/ASCIIArt.git'
 3. Navigate to the repository directory by running cd ASCIIArt.
 4. Open \ASCIIArt\src\ascii_art\Shell file and run it.
 5. Use the user interface in order to run the program with the parameters you need.
